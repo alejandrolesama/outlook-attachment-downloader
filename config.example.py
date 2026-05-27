@@ -1,0 +1,13 @@
+CLIENT_ID = "YOUR_APPLICATION_CLIENT_ID"
+
+TENANT_ID = "common"
+
+SCOPES = [
+    "User.Read",
+    "Mail.Read"
+]
+
+FECHA_INICIO = "2025-05-01T05:00:00Z"
+FECHA_FIN = "2026-05-26T04:59:59Z"
+
+CARPETA_DESCARGAS = "adjuntos_descargados"
